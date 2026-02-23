@@ -1,2 +1,2 @@
-# OsprioWatch
-OsprioWatch public issue tracker
+# OsprioView
+OsprioView public issue tracker
